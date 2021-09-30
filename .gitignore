@@ -2,4 +2,4 @@
 venv/
 
 # scraped article
-.article.html
+article.html
