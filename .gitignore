@@ -1,2 +1,5 @@
-# Virtual environment
+# virtual environment
 venv/
+
+# scraped article
+.article.html
